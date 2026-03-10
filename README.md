@@ -1,7 +1,7 @@
 ## VikChat - Talk to Strangers, Make Friends
 
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+This app was created by vikchat
+Need help or contact us 7878260773
 
 To run the devserver:
 ```
